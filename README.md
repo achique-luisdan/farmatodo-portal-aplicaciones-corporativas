@@ -7,7 +7,7 @@ Migración Frontend ♦️ de Farmatodo - Portal de Aplicaciones Corporativas de
 <div aling="center">
 <a href="https://www.linkedin.com/"><b>Andy Cevallos</b></a>
 
-![Foto de Andy](./andy.png)
+![Foto de Andy](./andy2.png)
 
 <b>Ingeniero de Desarrollo de Aplicaciones TI</b>
 
