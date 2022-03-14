@@ -2,6 +2,8 @@
 
 Migración Frontend ♦️ de Farmatodo - Portal de Aplicaciones Corporativas de Angular JS (v1.6) a Angular v13  🔴
 
+![Tazas](./00.png) 
+
 ![Inicio de Sesión](./01.png) 
 
 ![Página de Bienvenida](./02.png) 
