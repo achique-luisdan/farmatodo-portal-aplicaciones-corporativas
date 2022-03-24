@@ -20,7 +20,7 @@ Las herramientas utilizadas en el desarrollo del proyecto fueron:
 
 * [Angular v13](https://angular.io/) - Framework Web Frontend para crear SPA (Single Page Aplication).
  
-* [Angular Material 13](https://material.angular.io/) - Framework CSS basado en Material Desing para el diseño de interfaz web modernas.
+* [Angular Material v13](https://material.angular.io/) - Framework CSS basado en Material Desing para el diseño de interfaz web modernas.
 
 ### Equipo ✒️
 
