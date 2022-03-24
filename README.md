@@ -22,6 +22,30 @@ Angular 2 incluye TypeScript, un lenguaje que es un superconjunto de JavaScript 
 
 El proyecto consite en la Migración Frontend del Portal de Aplicaciones Corporativas de Angular JS (v1.6) a Angular 2 v13.
 
+## Características(Features) ❤️
+
+Inicio de Sesión (Login)
+
+Home con Sidebar
+
+Dialogs y SnackBar
+
+Perfil de Usuario (Profile)
+
+Loader animación de carga HTTP
+
+**Módulos**
+
+- Seguridad
+
+- Gestión Tiendas
+
+- Gestión CENDIS
+
+- Ayuda
+
+- Novedades
+
 ## Herramientas (Tools) 🛠️
 
 Las herramientas utilizadas en el desarrollo del proyecto fueron:
