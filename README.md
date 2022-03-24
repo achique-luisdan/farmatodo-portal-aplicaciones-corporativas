@@ -12,6 +12,16 @@ Migración Frontend ♦️ de Farmatodo - Portal de Aplicaciones Corporativas de
 ![Ayuda](./04.png)
 
 
+## Herramientas 🛠️
+
+Las herramientas utilizadas en el desarrollo del proyecto fueron:
+
+* [Node JS v14 o superior](https://nodejs.org/es/) - Entorno de Ejecución de Servidor para JavaScript
+
+* [Angular v13](https://angular.io/) - Framework Web Frontend para crear SPA (Single Page Aplication).
+ 
+* [Angular Material 13](https://material.angular.io/) - Framework CSS basado en Material Desing para el diseño de interfaz web modernas.
+
 ## Reseñas
 <section align="center">
 <div aling="center">
