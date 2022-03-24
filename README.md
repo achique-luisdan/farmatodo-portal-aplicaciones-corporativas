@@ -12,6 +12,18 @@ Migración Frontend ♦️ de Farmatodo - Portal de Aplicaciones Corporativas de
 ![Ayuda](./04.png)
 
 
+## Descripción (Description)📋
+
+Antes que nada, hagamos una aclaración para evitar confusiones. AngularJS y Angular no son lo mismo. No son retrocompatibles
+
+AngularJS es un framework para desarrollo web construido por Google e inicialmente liberado en 2010, conocido como la versión v1 e inferiores.
+
+Angular (a secas) también es un framework para desarrollo web, y también construido por Google, conocido como la versión v2 en adelante.
+
+Angular incluye TypeScript, un lenguaje que es un superconjunto de JavaScript que agrega capacidades de tipado estático. Esto nos da la ventaja de poder tipar cosas como variables, funciones, devoluciones, además de poder crear Interfaces. TypeScript también nos da la capacidad de usar enumerators, modules, namespaces, decorators y generics. Y por último pero no por ello menos importante está el sistema de import, que vamos a utilizar a diario para atomizar y modularizar todo nuestro código.
+
+El proyecto consite en la Migración Frontend del Portal de Aplicaciones Corporativas de Angular JS (v1.6) a Angular 2 v13.
+
 ## Herramientas (Tools) 🛠️
 
 Las herramientas utilizadas en el desarrollo del proyecto fueron:
