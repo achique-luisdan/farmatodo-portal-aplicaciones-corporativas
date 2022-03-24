@@ -32,7 +32,7 @@ A continuación se menciona a todos aquellos que ayudaron a levantar el proyecto
   
 * **Genesis Martinez** - *Diseñadora UI/UX*
   
-* **Luis Achique** - *Desarrollador Web Frontend* - [GitHub: @achique-luisdan](https://github.com/achique-luisdan))
+* **Luis Achique** - *Desarrollador Web Frontend* - [GitHub: @achique-luisdan](https://github.com/achique-luisdan)
 
 ## Reseñas (Reviews)
 <section align="center">
