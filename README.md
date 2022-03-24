@@ -12,7 +12,7 @@ Migración Frontend ♦️ de Farmatodo - Portal de Aplicaciones Corporativas de
 ![Ayuda](./04.png)
 
 
-## Descripción (Description)📋
+## Descripción (Description) 📋
 
 Antes que nada, hagamos una aclaración para evitar confusiones. AngularJS y Angular no son lo mismo. No son retrocompatibles
 
