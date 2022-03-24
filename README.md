@@ -22,6 +22,20 @@ Las herramientas utilizadas en el desarrollo del proyecto fueron:
  
 * [Angular Material 13](https://material.angular.io/) - Framework CSS basado en Material Desing para el diseño de interfaz web modernas.
 
+### Equipo ✒️
+
+A continuación se menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios:
+
+* **Andy Cevallos** - *Lider Técnico* - [GitHub: @mrandyron](https://github.com/mrandyron)
+  
+* **Carlos Rodríguez** - *Lider Técnico*
+  
+* **Genesis Martinez** - *Diseñadora UI/UX*
+  
+* **Luis Achique** - *Desarrollador Web Frontend* - [GitHub: @achique-luisdan](https://github.com/achique-luisdan))
+
+También puedes mirar la lista de todos los [contribuyentes](https://github.com/achique-luisdan/farmatodo-portal-aplicaciones-corporativas/CONTRIBUTORS.md) quíenes han participado en este proyecto. 
+
 ## Reseñas
 <section align="center">
 <div aling="center">
