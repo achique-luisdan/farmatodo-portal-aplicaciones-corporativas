@@ -12,7 +12,7 @@ Migración Frontend ♦️ de Farmatodo - Portal de Aplicaciones Corporativas de
 ![Ayuda](./04.png)
 
 
-## Herramientas 🛠️
+## Herramientas (Tools) 🛠️
 
 Las herramientas utilizadas en el desarrollo del proyecto fueron:
 
@@ -22,7 +22,7 @@ Las herramientas utilizadas en el desarrollo del proyecto fueron:
  
 * [Angular Material v13](https://material.angular.io/) - Framework CSS basado en Material Desing para el diseño de interfaz web modernas.
 
-### Equipo ✒️
+### Equipo (Team) ✒️
 
 A continuación se menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios:
 
@@ -34,9 +34,7 @@ A continuación se menciona a todos aquellos que ayudaron a levantar el proyecto
   
 * **Luis Achique** - *Desarrollador Web Frontend* - [GitHub: @achique-luisdan](https://github.com/achique-luisdan))
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/achique-luisdan/farmatodo-portal-aplicaciones-corporativas/CONTRIBUTORS.md) quíenes han participado en este proyecto. 
-
-## Reseñas
+## Reseñas (Reviews)
 <section align="center">
 <div aling="center">
 <a href="https://www.linkedin.com/"><b>Andy Cevallos</b></a>
