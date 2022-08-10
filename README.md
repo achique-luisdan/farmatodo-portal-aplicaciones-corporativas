@@ -56,7 +56,7 @@ Las herramientas utilizadas en el desarrollo del proyecto fueron:
  
 * [Angular Material v13](https://material.angular.io/) - Framework CSS basado en Material Desing para el diseño de interfaz web modernas.
 
-### Equipo (Team) ✒️
+## Equipo (Team) ✒️
 
 A continuación se menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios:
 
@@ -69,6 +69,7 @@ A continuación se menciona a todos aquellos que ayudaron a levantar el proyecto
 * **Luis Achique** - *Desarrollador Web Frontend* - [GitHub: @achique-luisdan](https://github.com/achique-luisdan)
 
 ## Reseñas (Reviews)
+
 <section align="center">
 <div aling="center">
 <a href="https://www.linkedin.com/"><b>Andy Cevallos</b></a>
