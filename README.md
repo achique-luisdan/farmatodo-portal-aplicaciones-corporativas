@@ -67,7 +67,8 @@ A continuación se menciona a todos aquellos que ayudaron a levantar el proyecto
   
 * **Luis Achique** - *Desarrollador Web Frontend* - [GitHub: @achique-luisdan](https://github.com/achique-luisdan)
 
-## Reseñas (Reviews)
+## Reseñas (Reviews) 💞
+
 
 <section align="center">
 <div aling="center">
