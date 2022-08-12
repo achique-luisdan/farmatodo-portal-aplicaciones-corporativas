@@ -72,7 +72,7 @@ A continuación se menciona a todos aquellos que ayudaron a levantar el proyecto
 
 <section align="center">
 <div aling="center">
-<a href="https://www.linkedin.com/"><b>Andy Cevallos</b></a>
+<a href="https://github.com/mrandyron"><b>Andy Cevallos</b></a>
 
 ![Foto de Andy](./andy2.png)
 
