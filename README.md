@@ -63,7 +63,7 @@ A continuación se menciona a todos aquellos que ayudaron a levantar el proyecto
   
 * **Carlos Rodríguez** - *Lider Técnico*
   
-* **Genesis Martinez** - *Diseñadora UI/UX*
+* **Genesis Martinez** - *Diseñadora UI/UX* - [LinkedIn](https://www.linkedin.com/in/genesisc-martinezjaspe)
   
 * **Luis Achique** - *Desarrollador Web Frontend* - [GitHub: @achique-luisdan](https://github.com/achique-luisdan)
 
