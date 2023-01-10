@@ -83,3 +83,9 @@ A continuación se menciona a todos aquellos que ayudaron a levantar el proyecto
 </section>
 En la organización nace el Proyecto de Migración Portal Aplicaciones Corporativas de AngularJs(1.6) a Angular 13, y con la incorporación de Luis, se ha podido 
 llevar con éxito dicha migración, reconociendo su gran aporte en Angular13 con Angular Material, dominando HTML, CSS y JavaScript, aportando conocimientos en buenas practicas como DRY, SOLID, Documentación, entre otras. Excelente recurso para ser integrado en equipos de alto desempeño.
+
+## Novedades (News) :star2:
+
+![Lanzamiento](./news_1.png)
+![Control de Retornables](./news_2.png)
+![Regulatorios](./news_3.png)
