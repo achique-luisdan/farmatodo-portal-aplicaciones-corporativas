@@ -41,6 +41,8 @@ Loader animación de carga HTTP
 
 - Gestión CENDIS
 
+- Gestión de Anaqueles
+
 - Reabastecimiento
 
 - Ayuda
