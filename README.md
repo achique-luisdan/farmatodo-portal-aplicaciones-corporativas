@@ -45,9 +45,12 @@ Loader animación de carga HTTP
 
 - Reabastecimiento
 
+- Gestión de Retruques
+  
 - Ayuda
 
 - Novedades
+
 
 ## Herramientas (Tools) 🛠️
 
